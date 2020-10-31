@@ -1,2 +1,3 @@
 # SPRING_BANK
-Reto de programación: Recuperar mi usuario de la banca digital.
+API REST con SPRING BOOT y ORACLE.
+Reto: Recuperar mi usuario.
